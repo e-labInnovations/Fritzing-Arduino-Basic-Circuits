@@ -2,6 +2,7 @@
 For Jemshihas Sir
 
 01 - Breadboard with power supply module oru LED Chumma kathikkanullathu 3.3V
+
 02 - Breadboard with power supply module oru LED with a 1k resistor 3.3v and 5V
 
 03 - resistors in series
@@ -13,7 +14,8 @@ For Jemshihas Sir
 06 - Diode Riverse direction with an LED with 3.3V
 
 07 - 555 astable multivibrator
-8 - Arduino Nano LED Bliking
+
+08 - Arduino Nano LED Bliking
 
 09 - Arduino Nano LPG Detection
 
@@ -48,6 +50,8 @@ For Jemshihas Sir
 24 - relay interfacing with transistor driver ckt
 
 25 - relay interfacing with transistor driver ckt and Arduino nano
+
+26 - 
 
 27 - voice pitch detection using Arduino nano and condenser mic
 
